@@ -1,0 +1,26 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 30px;
+    background-color: aquamarine;
+
+}
+h1{
+    text-align: center;
+    color: rgb(1, 1, 90);
+}
+img{
+    display: block;
+    margin: 0 auto 20px;
+    width: 200px;
+    border-radius: 80%;
+}
+p{
+    font-family: "Roboto", sans-serif;
+    line-height: 1.5;
+}
+h2{
+    font-family: "Roboto", sans-serif;
+    margin-top: 50px;
+    color:#335c8e;
+    border-bottom: 4px solid ;
+}
